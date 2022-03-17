@@ -184,6 +184,7 @@ body {
 }
 .video-container .video {
   min-height: 100%;
+  cursor: pointer;
   height: auto;
 }
 .video-container .video .thumbnail {
